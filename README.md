@@ -1,9 +1,7 @@
 markdown
 
 ---
-title: "What eco actions will you make today?"
-author: Ella
-date: 2026-03-22
+"What eco actions will you make today?"
 ---
 
 Below are some actions for specific problems regarding climate change. In each chapter, there are solutions are then a "mindset part". You can use this list of solutions as a challenge - every day/month, choose one/a few and try to implement them into your life. 

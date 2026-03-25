@@ -1,5 +1,4 @@
-markdown
-
+<link rel="stylesheet" href="stylopis_eco.css" /> 
 ---
 "What eco actions will you make today?"
 ---
@@ -19,12 +18,12 @@ The mindset part is about how I believe we should shift our focus and attention.
 - Unplugging "vampire devices" (=electronic devices plugged in that are not being used such as coffee machines, video game consoles and laptop chargers) can also lower your energy consumption. They use about 5 percent, maybe up to 10 percent of a total household's electricity. [https://www.pbs.org/newshour/show/are-vampire-devices-draining-energy-in-your-home-heres-what-to-do]
 - Vote and use your voice to spread knowledge.  “Vote with your wallet" by choosing products with eco-certifications (Fair Trade, EU Ecolabel,…). This sends a signal to markets and encourages sustainable practices. 
 
-## MINDSET:
+### MINDSET:
 - This goes with every chapter. Don’t strive for perfection! Nobody is a perfect environmentalist! Our current systems aren’t made for sustainability so you sometimes realistically can’t be sustainable. 
 
 
 
-## ♻️ Pollution 
+# ♻️ Pollution 
 - Start bins for plastic, paper, metal, glass (bonus points for biowaste bin!), recycle your electronics and batteries (you can also buy rechargeable batteries) properly. 
 - Say no to plastic bags. If you do get them, reuse them somehow (you can wash them by hand with water and use again also). “Reduce, reuse, recycle” is a great mantra to remember and use. The EU generates 35.3 kg of plastic packaging waste per person annually  [https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251022-1] If every person in the EU reduced their plastic waste by just 1 kg per year, it would prevent roughly 450,000 tons of avoided waste across the EU’s population of ~450 million people. [https://en.wikipedia.org/wiki/] 
 - If you have your own bottle, don’t be scared to buy drinks into it – there usually isn’t any problem about it.
@@ -45,21 +44,21 @@ The mindset part is about how I believe we should shift our focus and attention.
 - Installing a low-flow showerhead or low-flush toilet is a great option to reduce your water usage as well.
 - Wash only full loads in your washing machine. [https://thewaterproject.org/water_conservation_tips]
 
-## MINDSET:
+### MINDSET:
 - Don’t be more sustainable for the looks/ aesthetics! That is not the right motivation. This isn’t a trend you should take on and then forget, this is an action to help the environment, animals and people. 
 - Use what you have! You don’t have to buy a new pretty reusable bottle, bag etc. to be environmentally friendly – it’s better to reuse the bottle you have than buying new. The same goes with devices – if it works, use it. Research in Germany at Wuppertal Institute suggests that extending smartphone lifespans to five to seven years could halve the greenhouse gas emissions associated with these devices. [https://www.cleanenergywire.org/news/increasing-smartphone-lifespans-least-five-years-could-halve-emissions-devices-report]
 - Don’t overconsume, use only what you really need. You can overconsume even the “best environmental” materials such as bamboo – the fact that it’s called “eco-friendly” material isn’t your excuse to overconsume it. 
 
 
 
-### 🛒 Overconsumption
+# 🛒 Overconsumption
 - Check second-hand stores, Vinted, Fb marketplace, Reknihy or borrow from friends before buying new things – this works with clothes, books (even textbooks), electronics (search for “refurbished” phones, tablets, computers,...), everyday items, gardening tools
 - You can also try “no-spend month”. This challenge is about not spending money on a certain category of things (clothes, beauty products, etc. or everything) which aren’t necessary for survival. This makes you aware of your spending habits and often, you will realise that at the end of the month, you don’t want the thing you wanted at the start. 
 - Try extending the lifespan of your devices. The website iFixit [https://www.ifixit.com/] focuses on repair guides for electronics, appliances, and gadgets. If you can’t fix it yourself, you can visit a Repair Café.
 - Another great app is called Good On You – it makes impact analysis on fashion brands. It also writes helpful articles to learn about this topic.  [https://goodonyou.eco/]
 - Support circular businesses which design products for durability, repairability, and eventual recycling or repurposing. [https://pacecircular.org/action-agenda/electronics]
 
-## MINDSET: 
+### MINDSET: 
 - Value experiences over items. When giving gifts, experience gifts are a great option. After all, memories are forever! Unlike most items…  
 - Ignore trends. It doesn’t suit you in the long run – it depletes your money, time and the environment as well. Trends come and go and your true authenticity shouldn't be that way. Find your personal style with clothing. Buy something you will like for longer – make clothes an investment for the future. Delete apps for fast fashion clothes and unfollow fast fashion creators that tempt you to buy things. 
 - Find hobbies outside online spaces. Be more outside or at least not on social media. This will lower the amount of ads you see – as in nature, there aren’t many. 
@@ -69,7 +68,7 @@ The mindset part is about how I believe we should shift our focus and attention.
 
 
 
-### 🍎 Agriculture 
+# 🍎 Agriculture 
 - Eat less meat (start small, try for example Meatless Mondays). A report published in Science in 2018 revealed that: “A vegan diet is probably the single biggest way to reduce your impact on planet Earth, not just greenhouse gases, but global acidification, eutrophication, land use and water use. It is far bigger than cutting down on your flights or buying an electric car.” [https://unfccc.int/news/we-need-to-talk-about-meat] 
 - Try vegetarian/ vegan dishes at restaurants, experiment with vegetarian/ vegan alternatives – you don’t have to be vegan to eat vegan products.  
 - Buy eggs from free range chickens and meat from the Czech Republic. 
@@ -78,12 +77,12 @@ The mindset part is about how I believe we should shift our focus and attention.
 - Buy local foods. You can even lean into seasonal eating – eat what our country produces during different seasons. This can connect you more to nature. Or start your own small garden! You can do it even on your balcony or terrace. 
 - Use apps like Too Good To Go to rescue surplus food from local stores. 
 
-## MINDSET: 
+### MINDSET: 
 - Appreciate your meals more, realize where it came from, what it was before it ended on your plate. Eat consciously. 
 
 
 
-## 🌳 Deforestation
+# 🌳 Deforestation
 - Avoid products with palm oil, otherwise look for labels such as Rainforest Alliance or  RSPO (Roundtable on Sustainable Palm Oil) [https://www.esmmagazine.com/supply-chain/ecolabel-use-for-certified-sustainable-palm-oil-on-the-rise-223192]. 
 - Buy furniture secondhand (flea market, secondhands, FB Marketplace, Vinted, your neighbour etc.). Or at least look for some labels of sustainable forestry (but even those aren’t perfect and doesn’t mean that the wood doesn’t come from illegal loggers from protected areas), for example FSC (Forest Stewardship Council).  [https://fsc.org/en]
 - Ditch paper towels in the kitchen, use old fabrics or t-shirts. 
@@ -92,21 +91,21 @@ The mindset part is about how I believe we should shift our focus and attention.
 - For Christmas, buy a tree from the local forest (did you know most trees you buy for Christmas are from Denmark? [https://www.csr.dk/danish-christmas-trees-germany-hong-kong]). Some foresters sell cheap trees which they cut down to make space for the other trees – last year (2025), this worked in hájovna Vrbětín (around 15km from Benešov).There will certainly be other foresters which do this, you just have to search for a while. 
 - You can also donate to some organizations that fight against deforestation, but be careful – check if they do what they promise. 
 
-## MINDSET: 
+### MINDSET: 
 - This solution is the easiest, cheapest and most convenient: if you don’t need it, don’t buy it! Please don’t overconsume just because something is trendy  - trends come and go. A lot of furniture can be found secondhand or on flea markets. Choose the product with history.  
 - Buy a plant and take care of it (the best is to buy seeds and watch how it grows). You can find plant seeds even on swaps or get some from your friends or family. Or start your small garden with microgreens, strawberries, herbs or small vegetables. You can do that even on your balcony. 
 - Be in nature to remind yourself what you’re fighting for. 
 
 
 
-### 🦋 Biodiversity Loss 
+# 🦋 Biodiversity Loss 
 - Choose carefully your wildlife tourism options – captive wild animals are often caged, drugged or tied down for our viewing and petting pleasure. Living with humans for sure isn’t their natural habitat – so don’t take selfies with tigers, dolphins, etc. don’t pay to pet them and don’t support their shows.  It serves no conservation purpose, it’s usually only for profit. [https://www.smithsonianmag.com/science-nature/the-big-unsexy-problem-with-tiger-selfies-180964489/]
 - Don’t buy exotic animal skin or fur.
 - Don’t purchase wildlife products, souvenirs or bushmeat – just because people sell it, doesn’t mean it’s legal, safe or ethical.
 - Don’t eat whales, tigers, pangolins and other endangered species.
 - Be responsible on social media – don’t support content with wild animals in unnatural surroundings, social media activity is noticed by traders. 
 
-## MINDSET: 
+### MINDSET: 
 - Think more about animals and their life conditions.
 - Sign petitions. 
 

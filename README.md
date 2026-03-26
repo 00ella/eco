@@ -1,10 +1,10 @@
-<link rel="stylesheet" href="stylopis_eco.css" /> 
+
 ---
 "What eco actions will you make today?"
 ---
 
 Below are some actions for specific problems regarding climate change. In each chapter, there are solutions and then a "mindset part". You can use this list of solutions as a challenge - every day/month, choose one/a few and try to implement them into your life. 
-The mindset part is about how I believe we should shift our focus and attention. How to think about this problem/ the actions you're doing. 
+The mindset part is about how I believe we should shift our focus and attention - hrow to think about this problem/ the actions you're doing. 
 
 
 
